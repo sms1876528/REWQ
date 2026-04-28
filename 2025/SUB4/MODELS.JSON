@@ -1,0 +1,5 @@
+{
+  "model1": ["agent001", "agent002", "agent003"],
+  "model2": ["agent004", "agent005"],
+  "model3": ["agent006", "agent007", "agent008", "agent009"]
+}
